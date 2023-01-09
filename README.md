@@ -1,4 +1,6 @@
 # GitHub Profile Achievements
 
+Languages:
 
-github-profile-achievements.github.io
+- [English](https://github-profile-achievements.github.io/english)
+- [Russian](https://github-profile-achievements.github.io/russian)
