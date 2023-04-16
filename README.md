@@ -4,6 +4,7 @@
 
 - [English](https://github-profile-achievements.github.io/english)
 - [Russian](https://github-profile-achievements.github.io/russian)
+- [Spanish](https://github-profile-achievements.github.io/spanish)
 
 
 ### Other repositories with lists of achievements
