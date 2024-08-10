@@ -11,6 +11,7 @@ Now instructions for earning badges are written in **5 different languages**. If
 | [English](https://github-profile-achievements.github.io/english) | Complete list of all GitHub profile Badges and Achievements |
 | [Russian](https://github-profile-achievements.github.io/russian) | Полный список значков и достижений на GitHub |
 | [Chinese](https://github-profile-achievements.github.io/chinese) | 所有 GitHub 个人资料徽章和成就的完整列表 |
+| [Traditional Chinese](https://github-profile-achievements.github.io/traditional-chinese) | 所有 GitHub 個人資料徽章和成就的完整列表 |
 | [Spanish](https://github-profile-achievements.github.io/spanish) | Lista completa de todas las insignias y logros del perfil de GitHub |
 | [German](https://github-profile-achievements.github.io/german) | Vollständige Liste aller Abzeichen und Erfolge des GitHub-Profils |
 | [Polish](https://github-profile-achievements.github.io/polish) | Kompletna lista wszystkich odznak i osiągnięć profilu na GitHubie |
